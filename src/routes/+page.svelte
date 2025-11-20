@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>Stoic Dev</h1>
+<p>
+	This site is a repository of living documents about developing software with a traditional Stoic
+	mindset.
+</p>
