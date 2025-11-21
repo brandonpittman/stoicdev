@@ -1,10 +1,8 @@
-<script>
+<script lang="ts">
 	import { hrefs } from '$lib/hrefs';
 	import { getNotes } from './notes.remote';
 
 	const notes = await getNotes();
-
-	$inspect(notes);
 </script>
 
 <p>
