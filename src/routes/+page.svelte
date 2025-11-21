@@ -25,6 +25,6 @@
 		<a href={hrefs.traditional_stoicism}>Traditional Stoicism</a>
 	</li>
 	<li>
-		<a href={hrefs.traditional_stoicism}>College of Stoic Philosophers</a>
+		<a href={hrefs.cosp}>College of Stoic Philosophers</a>
 	</li>
 </ul>
