@@ -8,13 +8,13 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
-<h1>Stoic Dev</h1>
+<header><a href="/">Stoic Dev</a></header>
 
 <main>
 	{@render children()}
 </main>
 
-<footer>Stoic Dev · {new Date().getFullYear()}</footer>
+<footer hidden>Stoic Dev · {new Date().getFullYear()}</footer>
 
 <style>
 	:global(body) {
@@ -29,6 +29,21 @@
 	}
 	:global(p) {
 		line-height: 1.5;
+	}
+
+	:global(a) {
+		color: unset;
+	}
+
+	header {
+		font-weight: 500;
+		font-size: 1.5em;
+		padding-block-end: 2rem;
+
+		& a {
+			text-decoration: none;
+			color: unset;
+		}
 	}
 
 	main {

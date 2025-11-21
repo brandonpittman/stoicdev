@@ -42,5 +42,12 @@
 		"vitest": "^4.0.5",
 		"vitest-browser-svelte": "^2.0.1",
 		"wrangler": "^4.49.0"
+	},
+	"dependencies": {
+		"gray-matter": "^4.0.3",
+		"highlight.js": "^11.11.1",
+		"marked": "^17.0.1",
+		"marked-highlight": "^2.2.3",
+		"zod": "^4.1.12"
 	}
 }
