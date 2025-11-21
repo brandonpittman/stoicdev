@@ -1,10 +1,13 @@
 <script lang="ts">
-	import { page } from '$app/state';
 	import { getNote } from '../../notes.remote';
 
-	const slug = page.params.slug;
-	const note = await getNote(slug!);
+	const { params } = $props();
+	const note = $derived(await getNote(params.slug!));
 </script>
+
+<svelte:head>
+	<title>{note.meta.title}</title>
+</svelte:head>
 
 <div>
 	<h1>{note.meta.title}</h1>

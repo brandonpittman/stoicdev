@@ -5,6 +5,10 @@
 	const notes = await getNotes();
 </script>
 
+<svelte:head>
+	<title>Stoic Dev</title>
+</svelte:head>
+
 <p>
 	This site is a repository of living documents about developing software with a traditional Stoic
 	mindset.
