@@ -9,10 +9,22 @@
 	<title>Stoic Dev</title>
 </svelte:head>
 
-<p>
-	This site is a repository of living documents about developing software with a traditional Stoic
-	mindset.
-</p>
+<section>
+	<h2>What This Site Is</h2>
+	<p>
+		This site is a repository of living documents about developing software with a traditional Stoic
+		mindset.
+	</p>
+</section>
+
+<section>
+	<h2>Who This Site Is For</h2>
+	<p>
+		The notes written on this site are for practical philosophers who believe in the tenets of
+		traditional Stoicism and seek to deepen their knowledge of it while also taking parts of other
+		philosophical traditions to enhance the models provided by traditional Stoicism.
+	</p>
+</section>
 
 <h2>Notes</h2>
 <ul>
