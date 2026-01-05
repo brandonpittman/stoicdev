@@ -22,7 +22,7 @@
 		padding: 1.5rem;
 		margin-inline: auto;
 		max-inline-size: 65ch;
-		font-family: Georgia, 'Times New Roman', Times, serif;
+		font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 		min-block-size: 100dvh;
 		display: flex;
 		flex-direction: column;
