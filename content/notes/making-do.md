@@ -1,7 +1,6 @@
 ---
 title: Making Do
 date: 2025-11-21
-tags: ['amor fati']
 ---
 
 When developing for the Web, lean into the platform.
