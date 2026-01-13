@@ -1,6 +1,7 @@
 ---
 date: 2026-01-13
 title: Civic Republicanism
+tags: ['duty', 'government']
 ---
 
 Classical liberalism gets a lot of talk but I think the more Stoic-aligned political philosophy is [civic republicanism][cr].
