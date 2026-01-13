@@ -14,7 +14,7 @@ But it largely ignores our responsibility to the cosmos.
 My reading of civic republicanism is that [liberty as non-domination][liberty] depends on us being independent from others in a legal sense.
 We are, of course, better off with close ties to our fellow cosmopolites, but we should be free from influence that could lead us to make poor decisions because we fear for our lives, property, or other freedoms.
 
-In a system like a classical republic, we'd all be agarian intellectuals and be free to think for ourselves because no one can compel us to do anything we choose not dto do.
+In a system like a classical republic, we'd all be agarian intellectuals and be free to think for ourselves because no one can compel us to do anything we choose not to do.
 This system requires us to not live to maximize our comfort.
 It requires us to give up individual comfort for the success of the whole.
 It's probably why it hasn't succeeded for long.
