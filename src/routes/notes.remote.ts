@@ -5,6 +5,7 @@ import { Marked } from 'marked';
 import { markedHighlight } from 'marked-highlight';
 import * as z from 'zod/mini';
 import hljs from 'highlight.js/lib/common';
+import markedFootnote from 'marked-footnote';
 
 export type Note = {
 	slug: string;
@@ -24,7 +25,7 @@ const marked = new Marked(
 			return hljs.highlight(code, { language }).value;
 		}
 	})
-);
+).use(markedFootnote({ footnoteDivider: true }));
 
 // Load all posts at module scope
 const noteModules = import.meta.glob('/content/notes/*.md', {
@@ -58,6 +59,6 @@ export const getNote = query(z.string(), async (slug) => {
 	return {
 		slug,
 		meta: data,
-		content: marked.parse(markdown)
+		content: marked.parse(markdown, { gfm: true })
 	};
 });

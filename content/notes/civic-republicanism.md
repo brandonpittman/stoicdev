@@ -7,7 +7,7 @@ Classical liberalism gets a lot of talk but I think the more Stoic-aligned polit
 Civic republicanism has a large emphasis on civic duty.
 The citizenry needs to be informed and educated.
 They need to see liberty as requiring personal involvement.
-It's not something you're owed, but something you actively maintain.
+It's not something you're owed, but something you actively maintain.[^1]
 
 Classical liberalism is focused on what our rights are and what the world owes us.
 But it largely ignores our responsibility to the cosmos.
@@ -26,6 +26,8 @@ It aligns with our indepence of thought while requiring our love of civic involv
 Rebels can always see the benefits the whole will receive even though they know they may not live long enough to see the end.
 But being a rebel takes courage we often cannot muster.
 And should our rebellion succeed, we start the trend towards the thing we rebelled against.
+
+[^1]: It's odd that for as much as I want to be a capital "S" Stoic, I just want to be thought of as a lowercase "r" republican.
 
 [cr]: https://en.wikipedia.org/wiki/Classical_republicanism
 [liberty]: https://en.wikipedia.org/wiki/Liberty#Republican_liberty
