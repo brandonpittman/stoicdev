@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:resend.com)",
+      "mcp__svelte__list-sections",
+      "mcp__svelte__get-documentation",
+      "mcp__svelte__svelte-autofixer",
+      "Bash(pnpm check:*)",
+      "WebFetch(domain:zod.dev)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "svelte"
+  ]
+}
