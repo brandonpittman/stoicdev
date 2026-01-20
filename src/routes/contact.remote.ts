@@ -7,9 +7,15 @@ const resend = new Resend(RESEND_API_KEY);
 
 export const sendMessage = form(
 	z.object({
-		message: z.string().check(z.minLength(1, 'Message required'))
+		message: z.string().check(z.minLength(1, 'Message required')),
+		website: z.optional(z.string())
 	}),
-	async ({ message }) => {
+	async ({ message, website }) => {
+		// honeypot filled = bot, silently "succeed"
+		if (website) {
+			return { success: true };
+		}
+
 		await resend.emails.send({
 			from: 'contact@stoicdev.org',
 			to: 'stoicdev@brandonpittman.com',

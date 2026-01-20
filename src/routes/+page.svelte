@@ -56,6 +56,13 @@
 		<p>Message sent!</p>
 	{:else}
 		<form {...sendMessage}>
+			<input
+				{...sendMessage.fields.website}
+				autocomplete="off"
+				tabindex="-1"
+				aria-hidden="true"
+				class="honeypot"
+			/>
 			<textarea {...sendMessage.fields.message.as('text')} rows="5"></textarea>
 			<button>Send</button>
 		</form>
@@ -63,6 +70,15 @@
 </section>
 
 <style>
+	.honeypot {
+		position: absolute;
+		left: -9999px;
+		opacity: 0;
+		height: 0;
+		width: 0;
+		pointer-events: none;
+	}
+
 	form {
 		display: flex;
 		flex-direction: column;
