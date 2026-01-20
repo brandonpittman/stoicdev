@@ -6,7 +6,8 @@
       "mcp__svelte__get-documentation",
       "mcp__svelte__svelte-autofixer",
       "Bash(pnpm check:*)",
-      "WebFetch(domain:zod.dev)"
+      "WebFetch(domain:zod.dev)",
+      "Bash(pnpm check:types:*)"
     ]
   },
   "enableAllProjectMcpServers": true,
