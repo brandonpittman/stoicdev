@@ -51,7 +51,7 @@
 </section>
 
 <section>
-	<h2>Send me a message</h2>
+	<h2>Message Me</h2>
 	{#if sendMessage.result?.success}
 		<p>Message sent!</p>
 	{:else}
