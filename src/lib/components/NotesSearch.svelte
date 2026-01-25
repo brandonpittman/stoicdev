@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { getNotes } from '../../routes/notes.remote';
 	import { page } from '$app/stores';
-	import { goto } from '$app/navigation';
 
 	type Props = {
 		limit?: number;
@@ -14,26 +13,11 @@
 	const notes = $derived(await getNotes(searchQuery || undefined));
 	const displayNotes = $derived(limit ? notes.slice(0, limit) : notes);
 
-	let inputValue = $state('');
-
-	$effect(() => {
-		inputValue = searchQuery;
-	});
-
-	function handleSearch(e: SubmitEvent) {
-		e.preventDefault();
-		const url = new URL($page.url);
-		if (inputValue) {
-			url.searchParams.set('q', inputValue);
-		} else {
-			url.searchParams.delete('q');
-		}
-		goto(url, { replaceState: true });
-	}
+	let inputValue = $state(searchQuery);
 </script>
 
 {#if showForm}
-	<form onsubmit={handleSearch}>
+	<form>
 		<label for="search">Search notes</label>
 		<input
 			id="search"
