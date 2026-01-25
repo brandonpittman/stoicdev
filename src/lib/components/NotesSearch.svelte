@@ -18,7 +18,6 @@
 
 {#if showForm}
 	<form>
-		<label for="search">Search notes</label>
 		<input
 			id="search"
 			type="search"
