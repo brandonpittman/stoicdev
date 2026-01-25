@@ -41,3 +41,17 @@
 		{/each}
 	</ul>
 {/if}
+
+<style>
+	button {
+		align-self: flex-start;
+		font-family: inherit;
+		font-size: inherit;
+		padding: 0.5rem 1rem;
+		cursor: pointer;
+		border-radius: 4px;
+		background-color: #2b2b2b;
+		color: #fff;
+		border: none;
+	}
+</style>
