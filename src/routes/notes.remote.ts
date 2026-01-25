@@ -43,8 +43,18 @@ const allNotes = Object.entries(noteModules).map(([path, content]) => {
 }) as Note[];
 
 // Get all posts
-export const getNotes = query(async () => {
-	return allNotes.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+export const getNotes = query(z.optional(z.string()), async (searchQuery) => {
+	let sorted = allNotes
+		.filter((note) => !note.draft)
+		.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+	if (!searchQuery) return sorted;
+
+	const q = searchQuery.toLowerCase();
+	return sorted.filter(
+		(note) =>
+			note.title.toLowerCase().includes(q) || note.content.toLowerCase().includes(q)
+	);
 });
 
 // Get single post by slug

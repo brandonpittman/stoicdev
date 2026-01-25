@@ -1,9 +1,7 @@
 <script lang="ts">
 	import { hrefs } from '$lib/hrefs';
-	import { getNotes } from './notes.remote';
 	import { sendMessage } from './contact.remote';
-
-	const notes = await getNotes();
+	import NotesSearch from '$lib/components/NotesSearch.svelte';
 </script>
 
 <svelte:head>
@@ -29,13 +27,8 @@
 
 <section>
 	<h2>Notes</h2>
-	<ul>
-		{#each notes as note}
-			<li>
-				<a href={`/notes/${note.slug}`}>{note.title}</a>
-			</li>
-		{/each}
-	</ul>
+	<NotesSearch limit={5} showForm={false} />
+	<a href="/notes">View all notes</a>
 </section>
 
 <section>
