@@ -24,7 +24,6 @@
 			name="q"
 			placeholder="Search..."
 			bind:value={inputValue}
-			style="font-size: 16px;"
 		/>
 		<button type="submit">Search</button>
 	</form>
@@ -43,8 +42,20 @@
 {/if}
 
 <style>
+	form {
+		display: flex;
+		gap: 0.5rem;
+		align-items: center;
+	}
+
+	input {
+		font-family: inherit;
+		font-size: 16px;
+		padding: 0.5rem;
+		border-radius: 4px;
+	}
+
 	button {
-		align-self: flex-start;
 		font-family: inherit;
 		font-size: inherit;
 		padding: 0.5rem 1rem;
