@@ -41,6 +41,7 @@
 			name="q"
 			placeholder="Search..."
 			bind:value={inputValue}
+			style="font-size: 16px;"
 		/>
 		<button type="submit">Search</button>
 	</form>
