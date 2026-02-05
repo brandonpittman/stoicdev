@@ -39,7 +39,7 @@ These are _specific_ Stoic conclusions that require _specific_ premises. In trad
 
 ## The Grounding Question
 
-"Living according to Nature" (κατὰ φύσιν ζῆν) as an ethical formula only works if Nature has particular characteristics. The Stoics didn't mean "do what comes naturally" in the sense of following impulses. They meant aligning yourself with the rational structure of the cosmos - the logos that pervades and orders all things.
+"Living according to Nature" as an ethical formula only works if Nature has particular characteristics. The Stoics didn't mean "do what comes naturally" in the sense of following impulses. They meant aligning yourself with the rational structure of the cosmos - the logos that pervades and orders all things.
 
 Without Stoic physics, this reduces to "live according to reason," which is:
 
