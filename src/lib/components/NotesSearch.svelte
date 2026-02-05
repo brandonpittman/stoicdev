@@ -18,13 +18,7 @@
 
 {#if showForm}
 	<form>
-		<input
-			id="search"
-			type="search"
-			name="q"
-			placeholder="Search..."
-			bind:value={inputValue}
-		/>
+		<input id="search" type="search" name="q" placeholder="Search..." bind:value={inputValue} />
 		<button type="submit">Search</button>
 	</form>
 {/if}
@@ -53,6 +47,7 @@
 		font-size: 16px;
 		padding: 0.5rem;
 		border-radius: 4px;
+		border: 1px black solid;
 	}
 
 	button {
