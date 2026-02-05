@@ -1,4 +1,5 @@
 <script lang="ts">
+	import MessageMe from '$lib/components/MessageMe.svelte';
 	import { getNote } from '../../notes.remote';
 
 	const { params } = $props();
@@ -21,6 +22,8 @@
 <section class="note-content">
 	{@html note.content}
 </section>
+
+<MessageMe />
 
 <style>
 	.tags {
