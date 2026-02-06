@@ -11,7 +11,8 @@
 	<h2>What This Site Is</h2>
 	<p>
 		This site is a repository of living documents about developing software with a traditional Stoic
-		mindset.
+		mindset. The notes contained are partly generated using AI after lengthy voice conversations
+		with AI models. The thoughts are my own but often organized by AI.
 	</p>
 </section>
 
