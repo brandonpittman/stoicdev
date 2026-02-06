@@ -5,7 +5,7 @@ date: 2026-02-05
 
 ## The Core Issue
 
-Donald Robertson's Substack article that argues that Stoic ethics can function independently of Stoic physics (cosmology/theology). He says that ethics follow from logic rather than physics, making Stoicism accessible to modern atheists and agnostics without requiring commitment to Stoic theology. This goes against exactly what institutions like the College of Stoic Philosophers, which Robertson explicitly criticizes for insisting on the connection between physics and ethics, teaches.
+[Donald Robertson's Substack article][robertson] that argues that Stoic ethics can function independently of Stoic physics (cosmology/theology). He says that ethics follow from logic rather than physics, making Stoicism accessible to modern atheists and agnostics without requiring commitment to Stoic theology. This goes against exactly what institutions like the College of Stoic Philosophers, which Robertson explicitly criticizes for insisting on the connection between physics and ethics, teaches.
 
 ## The Derivation Problem
 
@@ -133,3 +133,5 @@ The alternative is to admit we're not actually teaching Stoicism - we're teachin
 _This document represents one perspective in an ongoing conversation within the Stoic community about the relationship between physics, logic, and ethics. It's written in response to Donald Robertson's article but isn't intended as a personal attack - rather, as a defense of traditional Stoicism's integrated philosophical system against recent attempts to fragmentize it._
 
 [^1]: See _Inner Citadel p.147_
+
+[robertson]: https://donaldrobertson.substack.com/p/stoic-ethics-does-not-depend-upon
