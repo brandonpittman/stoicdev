@@ -39,7 +39,7 @@ Stoic ethics are derived from understanding our relationship to the cosmos. We s
 
 ## The Aristo Excuse
 
-Robertson cites Aristo of Chios as evidence that Stoic ethics can function independently of physics. This is deeply misleading. Aristo was explicitly criticized _by other Stoics_ for neglecting physics and logic in favor of focusing solely on ethics. He was considered heterodox within the school - an outlier who departed from orthodox Stoic teaching. Diogenes Laertius records that Aristo "did away with logic and physics" and that other Stoics regarded this as a fundamental error. Modern Stoics beat this drum as proof that not all Stoics agreed on Physics. But even if parts of a group disagree with the majority, that means they're still the minority.
+Robertson cites Aristo of Chios as evidence that Stoic ethics can function independently of physics. This is deeply misleading. Aristo was explicitly criticized _by other Stoics_ for neglecting physics and logic in favor of focusing solely on ethics. He was considered heterodox within the school - an outlier who departed from orthodox Stoic teaching. Diogenes Laertius records that Aristo "did away with logic and physics" and that other Stoics regarded this as a fundamental error. Modern Stoics beat this drum as proof that not all Stoics agreed on physics. But even if parts of a group disagree with the majority, that means they're still the minority.
 
 ## The Marcus Aurelius Misreading
 
@@ -100,11 +100,9 @@ Furthermore, the assumption that modern audiences are put off by "religion" ofte
 
 Stoic theology is rationalist metaphysics - the claim that reality has a rational structure that can be understood through reason and observation. This is quite different from what modern atheists are reacting against when they reject "religion."
 
-## The Commercial Imperative
+## Follow the Money
 
-There's an elephant in the room that needs addressing: it is impossible for anyone who categorically disavows the possibility of religion, God, or providence to ever accept Stoic physics. For such individuals, Stoic theology isn't just false - it's unacceptable as a category.
-
-The only way to continue marketing Stoicism to modern atheists and agnostics is to discredit or marginalize Stoic physics. This isn't primarily a philosophical move - it's a commercial one. Modern Stoicism has become a profitable industry of books, podcasts, conferences, apps, and merchandise. The brand has value. "Stoicism" sounds serious, ancient, philosophical - it has cultural cachet that "secular virtue ethics" or "rational self-improvement" lacks.
+It's impossible for anyone who disavows the possibility of religion, God, or providence to ever accept Stoic physics. The only way to continue marketing Stoicism to modern atheists and agnostics is to discredit or marginalize Stoic physics. This isn't primarily a philosophical move - it's a commercial one. Modern Stoicism has become a profitable industry of books, podcasts, conferences, apps, and merchandise. The brand has value. "Stoicism" sounds serious, ancient, philosophical - it has cultural cachet that "secular virtue ethics" or "rational self-improvement" lacks.
 
 But there's a fundamental dishonesty in continuing to use the term "Stoicism" - even qualified as "modern Stoicism" - when what's being taught is incompatible with the philosophical system that existed in ancient Greece and Rome. If the physics are truly dispensable, if the theological framework is merely historical baggage, then what's being taught isn't Stoicism. It's something else that borrows Stoic vocabulary and aesthetic.
 
