@@ -1,17 +1,15 @@
 ---
-title: 'In Defense of Stoic Physics: A Response to Donald Robertson'
+title: 'Stoic Physics'
 date: 2026-02-05
 ---
 
 ## The Core Issue
 
-Donald Robertson's recent Substack article argues that Stoic ethics can function independently of Stoic physics (cosmology/theology). He claims that ethics follow from logic rather than physics, making Stoicism accessible to modern atheists and agnostics without requiring commitment to Stoic theology.
-
-This position has significant implications for how we teach and practice Stoicism, particularly within institutions like the College of Stoic Philosophers, which Robertson explicitly criticizes for insisting on the connection between physics and ethics.
+Donald Robertson's Substack article that argues that Stoic ethics can function independently of Stoic physics (cosmology/theology). He says that ethics follow from logic rather than physics, making Stoicism accessible to modern atheists and agnostics without requiring commitment to Stoic theology. This goes against exactly what institutions like the College of Stoic Philosophers, which Robertson explicitly criticizes for insisting on the connection between physics and ethics, teaches.
 
 ## The Derivation Problem
 
-Robertson's fundamental error is conflating the _structure_ of Stoic philosophy with the _derivation_ of its conclusions. He correctly identifies that Stoicism comprises three branches - physics, logic, and ethics - but fails to explain how ethical conclusions are actually generated.
+Robertson conflates the _structure_ of Stoic philosophy with the _derivation_ of its conclusions. He fails to explain how ethical conclusions are actually generated.
 
 ### Logic as Method, Not Source
 
@@ -37,35 +35,15 @@ Robertson asserts that "excellence in reasoning is our good" follows from recogn
 
 These are _specific_ Stoic conclusions that require _specific_ premises. In traditional Stoicism, those premises come from physics - understanding ourselves as parts of a rational, interconnected, providentially-ordered cosmos. Remove that metaphysical foundation and these conclusions become arbitrary assertions rather than logical derivations.
 
-## The Grounding Question
+Stoic ethics are derived from understanding our relationship to the cosmos. We should act for the benefit of the whole _because we are parts of that whole_, and the whole is rationally ordered. Our individual good and the cosmic good align because we participate in the same divine reason. Strip away the physics and you lose this derivation entirely. You're left with deontological duties floating in a metaphysical vacuum.
 
-"Living according to Nature" as an ethical formula only works if Nature has particular characteristics. The Stoics didn't mean "do what comes naturally" in the sense of following impulses. They meant aligning yourself with the rational structure of the cosmos - the logos that pervades and orders all things.
+## The Aristo Excuse
 
-Without Stoic physics, this reduces to "live according to reason," which is:
-
-- Much thinner as a principle
-- Shared by many philosophical systems
-- Incapable of generating the specific conclusions Stoicism is known for
-
-We might ask: without the physics, what distinguishes Stoic ethics from general virtue ethics, secular humanism, or rational egoism? What makes it specifically _Stoic_?
-
-The answer is that Stoic ethics are derived from understanding our relationship to the cosmos. We should act for the benefit of the whole _because we are parts of that whole_, and the whole is rationally ordered. Our individual good and the cosmic good align because we participate in the same divine reason.
-
-Strip away the physics and you lose this derivation entirely. You're left with deontological duties floating in a metaphysical vacuum.
-
-## The Aristo Objection
-
-Robertson cites Aristo of Chios as evidence that Stoic ethics can function independently of physics. This is deeply misleading.
-
-Aristo was explicitly criticized _by other Stoics_ for neglecting physics and logic in favor of focusing solely on ethics. He was considered heterodox within the school - an outlier who departed from orthodox Stoic teaching. Diogenes Laertius records that Aristo "did away with logic and physics" and that other Stoics regarded this as a fundamental error.
-
-Using Aristo as evidence for how mainstream Stoicism works is like citing a fringe Protestant sect to explain Catholic doctrine. The fact that one member of a philosophical school took an unusual position doesn't make that position representative of the school's teaching.
+Robertson cites Aristo of Chios as evidence that Stoic ethics can function independently of physics. This is deeply misleading. Aristo was explicitly criticized _by other Stoics_ for neglecting physics and logic in favor of focusing solely on ethics. He was considered heterodox within the school - an outlier who departed from orthodox Stoic teaching. Diogenes Laertius records that Aristo "did away with logic and physics" and that other Stoics regarded this as a fundamental error. Modern Stoics beat this drum as proof that not all Stoics agreed on Physics. But even if parts of a group disagree with the majority, that means they're still the minority.
 
 ## The Marcus Aurelius Misreading
 
 Modern Stoics repeatedly cite the "providence or atoms" passages from Marcus Aurelius's _Meditations_ as evidence that Stoic ethics don't depend on Stoic physics. This represents a fundamental misreading of Marcus's rhetorical technique.
-
-### The Passages
 
 The commonly cited passages include:
 
@@ -73,21 +51,17 @@ The commonly cited passages include:
 
 - _Meditations_ 12.14: "Consider yourself fortunate if in the midst of such a whirlwind you possess a guiding intelligence within yourself."
 
-### The Context
-
 These passages don't express metaphysical agnosticism. Marcus is employing a common philosophical technique - arguing from the weakest position to demonstrate the robustness of his conclusions.[^1]
 
 The Epicurean model (atoms, chance, indifferent gods) was a competing framework. By saying "even _if_ the Epicurean view were correct, virtue would still matter," Marcus strengthens his argument. He's showing that Stoic ethics are rationally compelling even under the most skeptical assumptions about cosmic order.
 
 But we know from the entirety of the _Meditations_ that Marcus believed in providence and divine reason. The work is saturated with references to Zeus, the logos, universal nature, and rational cosmic order.
 
-### The Real Significance
-
 Pierre Hadot's analysis in _The Inner Citadel_ notes that Marcus consistently returns to the Stoic framework after these rhetorical explorations. He's not expressing doubt - he's demonstrating philosophical rigor by stress-testing his beliefs against the strongest alternative.
 
 Ironically, this actually _supports_ the traditional position: Marcus felt compelled to address the Epicurean physical model precisely because he understood that different metaphysics generate different ethical frameworks. He wasn't saying "physics doesn't matter" - he was showing that _even with the wrong physics_, virtue would still be a rational choice. But he clearly believed the Stoic physics were correct.
 
-### Why This Keeps Getting Cited
+## The Evidence is Awfully Thin
 
 Modern Stoics rely heavily on Aristo and the Marcus passages because they don't have much else to work with. If Stoic ethics truly functioned independently of physics throughout the tradition, we would expect abundant examples across Stoic literature. Instead, we have:
 
@@ -143,22 +117,6 @@ This creates perverse incentives. The more successful modern Stoicism becomes as
 The irony is that this commercialized version of Stoicism undermines its own foundations. If Stoic ethics truly are just common-sense virtue ethics that any rational person would arrive at independently, why do you need the Stoic brand at all? Why not just teach virtue ethics on their own merits?
 
 The answer is that the ancient Stoics weren't selling self-help. They were offering a complete philosophical system that explained the nature of reality, how humans fit into that reality, and therefore how we should live. The ethics followed from the metaphysics. Remove the metaphysics and you're left with ethical assertions that may be appealing but aren't distinctively Stoic.
-
-## Questions for Reflection
-
-Those who argue that Stoic ethics can stand independently of Stoic physics must answer:
-
-1. **What are the premises?** If ethics follow from logic rather than physics, what premises is logic operating on? Where do those premises come from?
-
-2. **Why these specific ethics?** What generates the distinctively Stoic conclusions (virtue as sole good, cosmopolitanism, living for the whole) rather than other possible ethical systems?
-
-3. **What makes it Stoic?** Without the metaphysical framework, what distinguishes this from general virtue ethics, secular humanism, or rational self-help?
-
-4. **Why the traditional formula?** "Living according to Nature" only makes sense as an ethical principle if Nature has specific characteristics. What does this phrase mean without Stoic physics?
-
-5. **Where's the historical support?** If this separation were valid, why do we find so few examples in ancient Stoic literature of ethics being taught independently of physics?
-
-6. **Why keep the name?** If Stoic physics are dispensable, what makes this "Stoicism" rather than something else using Stoic vocabulary?
 
 ## Conclusion
 
