@@ -1,6 +1,7 @@
 ---
 title: 'Stoic Physics'
 date: 2026-02-05
+ai: compiled
 ---
 
 Donald Robertson recently argued on his Substack that Stoic ethics can stand on their own without Stoic physics. Ethics follow from logic, he says, not from cosmology or theology. This makes Stoicism accessible to modern atheists and agnostics who don't want to deal with anything that smells like religion. He explicitly criticizes institutions like the College of Stoic Philosophers for insisting on the connection between physics and ethics.
