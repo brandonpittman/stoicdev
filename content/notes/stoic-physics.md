@@ -3,134 +3,89 @@ title: 'Stoic Physics'
 date: 2026-02-05
 ---
 
-## The Core Issue
+Donald Robertson recently argued on his Substack that Stoic ethics can stand on their own without Stoic physics. Ethics follow from logic, he says, not from cosmology or theology. This makes Stoicism accessible to modern atheists and agnostics who don't want to deal with anything that smells like religion. He explicitly criticizes institutions like the College of Stoic Philosophers for insisting on the connection between physics and ethics.
 
-[Donald Robertson's Substack article][robertson] that argues that Stoic ethics can function independently of Stoic physics (cosmology/theology). He says that ethics follow from logic rather than physics, making Stoicism accessible to modern atheists and agnostics without requiring commitment to Stoic theology. This goes against exactly what institutions like the College of Stoic Philosophers, which Robertson explicitly criticizes for insisting on the connection between physics and ethics, teaches.
+I think he's wrong, and I think the error is fundamental.
 
-## The Derivation Problem
+## Logic doesn't generate content
 
-Robertson conflates the _structure_ of Stoic philosophy with the _derivation_ of its conclusions. He fails to explain how ethical conclusions are actually generated.
+Robertson conflates the _structure_ of Stoic philosophy with how its conclusions are actually _derived_. Logic in Stoicism is the method of reasoning, not the source of what you're reasoning about. It connects premises to conclusions. It doesn't create premises out of nothing.
 
-### Logic as Method, Not Source
+The traditional derivation works like this:
 
-Logic in Stoicism is the _method_ of derivation, not the source of content. It functions as the inference process that connects premises to conclusions:
+**IF** the cosmos is rational, and humans are parts of a divine rational whole (Stoic physics),  
+**THEN** via logical reasoning,  
+virtue is the sole good and we should live for the benefit of the whole (Stoic ethics).
 
-**IF** [Stoic physics: rational cosmos, humans as parts of divine rational whole]  
-**THEN** [via logical reasoning]  
-**Stoic ethics**: virtue as sole good, living for the benefit of the whole
+Robertson's move is to remove the IF clause and keep the THEN clause. But _therefore what?_ You can't derive conclusions from a method of reasoning any more than you can use mathematics to generate numbers from nothing. You need something to operate on.
 
-Robertson's argument removes the IF clause while keeping the THEN clause. He's left with "THEREFORE virtue is the sole good" - but _therefore what_? Logic requires premises to operate on. You cannot derive conclusions from the method of reasoning alone, any more than you can use mathematics to generate numbers ex nihilo.
+He asserts that "excellence in reasoning is our good" follows from recognizing reason as our essential nature. Fine. But why does that lead to _Stoic_ virtue ethics specifically? Why not Epicurean ethics, or utilitarian calculation, or Aristotle's mean? Why is virtue the _sole_ good rather than one good among many? Why does living according to reason mean living for the benefit of the whole? Why these four cardinal virtues and not others?
 
-### The Missing Premises
+These are specific Stoic conclusions. They require specific premises. In traditional Stoicism, those premises come from physics — understanding ourselves as parts of a rational, interconnected, providentially ordered cosmos. We should act for the benefit of the whole _because we are parts of that whole_, and the whole is rationally ordered. Take away the physics and you lose the derivation entirely. You're left with duties floating in a metaphysical vacuum.
 
-Robertson asserts that "excellence in reasoning is our good" follows from recognizing reason as our essential nature. But this claim raises immediate questions:
+## Aristo doesn't help
 
-1. Why does "reason is our nature" lead to Stoic virtue ethics specifically, rather than Epicurean ethics, utilitarian calculation, Aristotelian mean-based ethics, or any other rational system?
+Robertson cites Aristo of Chios as evidence that Stoic ethics can function without physics. This is misleading. Aristo was explicitly criticized _by other Stoics_ for neglecting physics and logic. He was heterodox — an outlier who departed from what the school actually taught. Diogenes Laertius records that Aristo "did away with logic and physics" and that other Stoics regarded this as a fundamental error.
 
-2. Why is virtue the _sole_ good rather than one good among many?
+Modern Stoics love pointing to Aristo as proof that not everyone in the tradition agreed on this. Sure. But disagreeing with the majority still makes you the minority. One dissenter doesn't overturn two millennia of mainstream teaching.
 
-3. Why does living according to reason mean living for the benefit of the whole?
+## The Marcus Aurelius misread
 
-4. Why these four cardinal virtues (wisdom, justice, courage, temperance) rather than others?
+This one comes up constantly. Modern Stoics cite the "providence or atoms" passages in the _Meditations_ as evidence that Marcus was agnostic about Stoic physics and practiced ethics independently of them.
 
-These are _specific_ Stoic conclusions that require _specific_ premises. In traditional Stoicism, those premises come from physics - understanding ourselves as parts of a rational, interconnected, providentially-ordered cosmos. Remove that metaphysical foundation and these conclusions become arbitrary assertions rather than logical derivations.
+That's not what Marcus is doing.
 
-Stoic ethics are derived from understanding our relationship to the cosmos. We should act for the benefit of the whole _because we are parts of that whole_, and the whole is rationally ordered. Our individual good and the cosmic good align because we participate in the same divine reason. Strip away the physics and you lose this derivation entirely. You're left with deontological duties floating in a metaphysical vacuum.
+When he writes things like "if all is God, then all is well; but if ruled by chance, don't you too be ruled by chance" (9.28), he's employing a common philosophical technique — arguing from the weakest position to show his conclusions hold up even under the most skeptical assumptions. The Epicurean model (atoms, chance, indifferent gods) was the main competitor. By saying "even _if_ the Epicurean view were correct, virtue would still matter," Marcus is stress-testing his beliefs, not expressing doubt about them.
 
-## The Aristo Excuse
+We know this because the rest of the _Meditations_ is saturated with references to Zeus, the logos, universal nature, and rational cosmic order. Pierre Hadot makes this point in _The Inner Citadel_ — Marcus consistently returns to the Stoic framework after these rhetorical explorations.[^1]
 
-Robertson cites Aristo of Chios as evidence that Stoic ethics can function independently of physics. This is deeply misleading. Aristo was explicitly criticized _by other Stoics_ for neglecting physics and logic in favor of focusing solely on ethics. He was considered heterodox within the school - an outlier who departed from orthodox Stoic teaching. Diogenes Laertius records that Aristo "did away with logic and physics" and that other Stoics regarded this as a fundamental error. Modern Stoics beat this drum as proof that not all Stoics agreed on physics. But even if parts of a group disagree with the majority, that means they're still the minority.
+Here's the irony: this actually _supports_ the traditional position. Marcus felt compelled to address the Epicurean physical model precisely because he understood that different metaphysics generate different ethical frameworks. He wasn't saying physics doesn't matter. He was showing that even with the _wrong_ physics, virtue remains a rational choice. But he clearly believed the Stoic physics were correct.
 
-## The Marcus Aurelius Misreading
+## The evidence is thin
 
-Modern Stoics repeatedly cite the "providence or atoms" passages from Marcus Aurelius's _Meditations_ as evidence that Stoic ethics don't depend on Stoic physics. This represents a fundamental misreading of Marcus's rhetorical technique.
+Modern Stoics lean so heavily on Aristo and the Marcus passages because they don't have much else. If Stoic ethics genuinely functioned independently of physics throughout the tradition, we'd expect abundant examples across the literature. Instead we have one heterodox figure who was criticized for his position, one rhetorical device that's been persistently misread, and then the vast majority of Stoic texts treating physics as foundational. From Chrysippus through Epictetus, mainstream Stoicism consistently derives ethics from physics. The outliers don't overturn that.
 
-The commonly cited passages include:
+## The retrofit problem
 
-- _Meditations_ 9.28: "If all is God, then all is well. But if ruled by chance, don't you too be ruled by chance."
+Both modern Stoicism and historical deism run into the same structural issue: they're retrofitting ethical conclusions they already accept with alternative metaphysical foundations.
 
-- _Meditations_ 12.14: "Consider yourself fortunate if in the midst of such a whirlwind you possess a guiding intelligence within yourself."
+Deists said "we'll keep the Christian God but strip away revelation, miracles, and institutional church." Modern Stoics say "we'll keep these Christian-compatible ethics — virtue, duty, self-control, cosmopolitanism — but strip away the theological grounding." Both movements work backward from ethics they inherited culturally, then shop for foundations that are just enough to support those ethics while avoiding what they find uncomfortable.
 
-These passages don't express metaphysical agnosticism. Marcus is employing a common philosophical technique - arguing from the weakest position to demonstrate the robustness of his conclusions.[^1]
+The problem is that both approaches are parasitic on Christian culture. They're not actually deriving ethics from first principles. They're preserving familiar ethics while swapping out foundations.
 
-The Epicurean model (atoms, chance, indifferent gods) was a competing framework. By saying "even _if_ the Epicurean view were correct, virtue would still matter," Marcus strengthens his argument. He's showing that Stoic ethics are rationally compelling even under the most skeptical assumptions about cosmic order.
+Traditional Stoicism didn't have this problem. It derived its ethics from its understanding of cosmic and human nature as participations in divine reason. A genuinely fresh start from Stoic metaphysics might produce ethics quite different from what modern Westerners take for granted.
 
-But we know from the entirety of the _Meditations_ that Marcus believed in providence and divine reason. The work is saturated with references to Zeus, the logos, universal nature, and rational cosmic order.
+## Accessibility isn't an argument
 
-Pierre Hadot's analysis in _The Inner Citadel_ notes that Marcus consistently returns to the Stoic framework after these rhetorical explorations. He's not expressing doubt - he's demonstrating philosophical rigor by stress-testing his beliefs against the strongest alternative.
+Robertson worries that Stoic physics "puts off" modern audiences uncomfortable with religious frameworks. That's a practical concern about marketing, not a philosophical argument about what Stoicism actually teaches.
 
-Ironically, this actually _supports_ the traditional position: Marcus felt compelled to address the Epicurean physical model precisely because he understood that different metaphysics generate different ethical frameworks. He wasn't saying "physics doesn't matter" - he was showing that _even with the wrong physics_, virtue would still be a rational choice. But he clearly believed the Stoic physics were correct.
+If Stoic ethics require Stoic physics for their derivation — and I think they do — then attempting to separate them produces something that isn't Stoicism. It's a modern invention wearing Stoic vocabulary.
 
-## The Evidence is Awfully Thin
+The other thing worth noting: Stoic theology isn't what modern atheists are reacting against when they reject "religion." Stoic physics isn't belief in a personal God who issues commandments, or acceptance of divine revelation, or membership in an institutional church. It's rationalist metaphysics — the claim that reality has a rational structure you can understand through reason and observation. That's a very different thing from what most people mean by "religion."
 
-Modern Stoics rely heavily on Aristo and the Marcus passages because they don't have much else to work with. If Stoic ethics truly functioned independently of physics throughout the tradition, we would expect abundant examples across Stoic literature. Instead, we have:
+## Follow the money
 
-- One heterodox figure (Aristo) who was criticized by other Stoics
-- One rhetorical device in Marcus that's been persistently misread
-- The vast majority of Stoic texts treating physics as foundational
+It's impossible for someone who disavows the possibility of religion, God, or providence to ever accept Stoic physics. The only way to keep marketing Stoicism to modern atheists and agnostics is to discredit the idea of Stoic physics. And that's not primarily a philosophical move. It's a commercial one.
 
-From Chrysippus through Epictetus, mainstream Stoicism consistently derives ethics from physics. Citing the outliers doesn't overturn the tradition.
+Modern Stoicism has become a profitable industry — books, podcasts, conferences, apps, merchandise. The brand has value. "Stoicism" sounds serious and ancient. It has cultural cachet that "secular virtue ethics" or "rational self-improvement" doesn't.
 
-## The Retrofit Problem
+But there's a dishonesty in using the term "Stoicism" — even qualified as "modern Stoicism" — when what's being taught is incompatible with the actual philosophical system. If the physics are truly dispensable, then what's being taught isn't Stoicism. It's something else borrowing Stoic vocabulary and aesthetic.
 
-Both modern Stoicism and historical deism engage in similar projects: retrofitting Christian ethical intuitions with alternative metaphysical foundations.
+The honest move would be to call it something different. "Rational virtue ethics." "Philosophical resilience." Anything that doesn't claim continuity with a tradition whose core metaphysical commitments are being rejected. But that would sacrifice the brand. And the brand sells.
 
-Deists said: "We'll keep the Christian God but strip away revelation, miracles, and institutional church - anything that can't be justified by reason alone."
+This creates a perverse incentive. The more successful modern Stoicism becomes commercially, the stronger the pressure to maintain the brand while diluting the content. And the more necessary it becomes to discredit traditional Stoicism — to paint people like Chris Fischer and institutions like the College of Stoic Philosophers as gatekeepers peddling unnecessary theology.
 
-Modern Stoics say: "We'll keep Christian-compatible ethics (virtue, duty, self-control, cosmopolitanism) but strip away theological grounding entirely."
+The deeper irony: if Stoic ethics are really just common-sense virtue ethics any rational person would arrive at independently, why do you need the Stoic brand at all? The ancient Stoics weren't selling self-help. They were offering a complete philosophical system that explained reality, how humans fit into it, and therefore how we should live. The ethics followed from the metaphysics. Remove the metaphysics and you're left with ethical assertions that aren't distinctively Stoic.
 
-Both movements work backward from ethics they already accept culturally, then shop for metaphysical foundations that are _just enough_ to support those ethics while avoiding what they find objectionable.
+## Where this lands
 
-The problem is that both approaches are parasitic on Christian culture. They're not deriving ethics from first principles - they're preserving familiar ethics while swapping out foundations. This is intellectually dishonest.
+Robertson's article gives academic cover for a trend already underway — the gradual abandonment of Stoic metaphysics while preserving Stoic-flavored ethics. But it rests on a logical error: mistaking the structure of philosophy for the derivation of conclusions.
 
-Traditional Stoicism didn't start with Christian ethics as baggage. It derived its ethics from its understanding of cosmic nature and human nature as participations in divine reason. A genuinely fresh start from Stoic metaphysics might lead to ethics quite different from what modern Westerners take for granted.
-
-## The Accessibility Argument
-
-Robertson expresses concern that Stoic physics "puts off" modern audiences who are uncomfortable with religious or theological frameworks. This is a practical consideration about accessibility, not a philosophical argument about what Stoicism actually teaches.
-
-The question for educators and practitioners isn't what's most palatable to contemporary sensibilities, but what's accurate to the Stoic system. If Stoic ethics genuinely require Stoic physics for their derivation, then attempting to separate them produces something that isn't actually Stoicism - it's a modern invention wearing Stoic vocabulary.
-
-Furthermore, the assumption that modern audiences are put off by "religion" often conflates Stoic theology with Judeo-Christian-Islamic theism. Stoic physics is not:
-
-- Belief in a personal God who issues commandments
-- Acceptance of divine revelation or scripture
-- Membership in an institutional church
-- Faith in miracles or supernatural intervention
-
-Stoic theology is rationalist metaphysics - the claim that reality has a rational structure that can be understood through reason and observation. This is quite different from what modern atheists are reacting against when they reject "religion."
-
-## Follow the Money
-
-It's impossible for anyone who disavows the possibility of religion, God, or providence to ever accept Stoic physics. The only way to continue marketing Stoicism to modern atheists and agnostics is to discredit or marginalize Stoic physics. This isn't primarily a philosophical move - it's a commercial one. Modern Stoicism has become a profitable industry of books, podcasts, conferences, apps, and merchandise. The brand has value. "Stoicism" sounds serious, ancient, philosophical - it has cultural cachet that "secular virtue ethics" or "rational self-improvement" lacks.
-
-But there's a fundamental dishonesty in continuing to use the term "Stoicism" - even qualified as "modern Stoicism" - when what's being taught is incompatible with the philosophical system that existed in ancient Greece and Rome. If the physics are truly dispensable, if the theological framework is merely historical baggage, then what's being taught isn't Stoicism. It's something else that borrows Stoic vocabulary and aesthetic.
-
-The honest move would be to name it something different rather than co-opting a term with two millennia of specific philosophical meaning. Call it "rational virtue ethics," "philosophical resilience," "practical wisdom traditions" - anything that doesn't claim continuity with a tradition whose core metaphysical commitments are being explicitly rejected.
-
-But that would sacrifice the brand. "Stoicism" sells. It's chic. It has a certain masculine, martial appeal in contemporary culture. You can sell challenge coins, journal prompts, and conference tickets under the Stoic banner in ways you couldn't with a more honest descriptor.
-
-This creates perverse incentives. The more successful modern Stoicism becomes as a commercial enterprise, the stronger the pressure to maintain the brand while diluting the content. And the more necessary it becomes to discredit traditional Stoicism - to paint figures like Chris Fischer and institutions like the College of Stoic Philosophers as gatekeepers peddling unnecessary theology, making Stoicism "inaccessible" to modern audiences.
-
-The irony is that this commercialized version of Stoicism undermines its own foundations. If Stoic ethics truly are just common-sense virtue ethics that any rational person would arrive at independently, why do you need the Stoic brand at all? Why not just teach virtue ethics on their own merits?
-
-The answer is that the ancient Stoics weren't selling self-help. They were offering a complete philosophical system that explained the nature of reality, how humans fit into that reality, and therefore how we should live. The ethics followed from the metaphysics. Remove the metaphysics and you're left with ethical assertions that may be appealing but aren't distinctively Stoic.
-
-## Conclusion
-
-Robertson's article provides academic cover for a trend already underway in modern Stoicism - the gradual abandonment of Stoic metaphysics while preserving Stoic-flavored ethics. But this project rests on a logical error: mistaking the structure of philosophy for the derivation of conclusions.
-
-Logic is a method, not a source. It connects premises to conclusions but cannot generate conclusions without premises. Stoic physics provides those premises. Remove them and you're left with ethical assertions that may be appealing or useful, but aren't actually _derived_ from anything.
-
-The question isn't whether we can practice Stoic-like ethics without believing Stoic theology. Obviously we can - people do it all the time. The question is whether that practice is genuinely _Stoicism_ or something else using Stoic vocabulary.
-
-If we're serious about teaching and practicing Stoicism rather than modern self-help dressed in ancient language, we need to grapple honestly with the metaphysical foundations that make Stoic ethics what they are. That may be less accessible to modern audiences, and it certainly won't sell as many books or conference tickets. But it's intellectually honest.
-
-The alternative is to admit we're not actually teaching Stoicism - we're teaching whatever ethics we find useful while borrowing Stoic branding for cultural legitimacy.
+The question isn't whether you can practice Stoic-like ethics without believing Stoic theology. Obviously you can. People do it all the time. The question is whether that practice is _Stoicism_ or something else using Stoic vocabulary. I think the answer is obvious.
 
 ---
 
-_This document represents one perspective in an ongoing conversation within the Stoic community about the relationship between physics, logic, and ethics. It's written in response to Donald Robertson's article but isn't intended as a personal attack - rather, as a defense of traditional Stoicism's integrated philosophical system against recent attempts to fragmentize it._
+_This is one perspective in an ongoing conversation within the Stoic community about the relationship between physics, logic, and ethics. It's a response to [Robertson's article][robertson], not a personal attack — it's a defense of traditional Stoicism's integrated system against attempts to break it apart._
 
 [^1]: See _Inner Citadel p.147_
 
