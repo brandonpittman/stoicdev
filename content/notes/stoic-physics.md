@@ -19,7 +19,7 @@ virtue is the sole good and we should live for the benefit of the whole (Stoic e
 
 Robertson's move is to remove the IF clause and keep the THEN clause. But _therefore what?_ You can't derive conclusions from a method of reasoning any more than you can use mathematics to generate numbers from nothing. You need something to operate on.
 
-He asserts that "excellence in reasoning is our good" follows from recognizing reason as our essential nature. Fine. But why does that lead to _Stoic_ virtue ethics specifically? Why not Epicurean ethics, or utilitarian calculation, or Aristotle's mean? Why is virtue the _sole_ good rather than one good among many? Why does living according to reason mean living for the benefit of the whole? Why these four cardinal virtues and not others?
+He asserts that "excellence in reasoning is our good" follows from recognizing reason as our essential nature. Fine. But "reason is our nature" doesn't get you to Stoic virtue ethics. It could just as easily get you to Epicurean ethics, utilitarian calculation, or Aristotle's mean. Nothing about recognizing reason as essential tells you that virtue is the _sole_ good rather than one good among many, or that living according to reason means living for the benefit of the whole, or that wisdom, justice, courage, and temperance are the cardinal virtues rather than some other set.
 
 These are specific Stoic conclusions. They require specific premises. In traditional Stoicism, those premises come from physics — understanding ourselves as parts of a rational, interconnected, providentially ordered cosmos. We should act for the benefit of the whole _because we are parts of that whole_, and the whole is rationally ordered. Take away the physics and you lose the derivation entirely. You're left with duties floating in a metaphysical vacuum.
 
@@ -75,18 +75,18 @@ The honest move would be to call it something different. "Rational virtue ethics
 
 This creates a perverse incentive. The more successful modern Stoicism becomes commercially, the stronger the pressure to maintain the brand while diluting the content. And the more necessary it becomes to discredit traditional Stoicism — to paint people like Chris Fischer and institutions like the College of Stoic Philosophers as gatekeepers peddling unnecessary theology.
 
-The deeper irony: if Stoic ethics are really just common-sense virtue ethics any rational person would arrive at independently, why do you need the Stoic brand at all? The ancient Stoics weren't selling self-help. They were offering a complete philosophical system that explained reality, how humans fit into it, and therefore how we should live. The ethics followed from the metaphysics. Remove the metaphysics and you're left with ethical assertions that aren't distinctively Stoic.
+The deeper irony is that if Stoic ethics are really just common-sense virtue ethics any rational person would arrive at independently, the Stoic brand is unnecessary. The ancient Stoics weren't selling self-help. They were offering a complete philosophical system that explained reality, how humans fit into it, and therefore how we should live. The ethics followed from the metaphysics. Remove the metaphysics and you're left with ethical assertions that aren't distinctively Stoic.
 
 ## Where this lands
 
 Robertson's article gives academic cover for a trend already underway — the gradual abandonment of Stoic metaphysics while preserving Stoic-flavored ethics. But it rests on a logical error: mistaking the structure of philosophy for the derivation of conclusions.
 
-The question isn't whether you can practice Stoic-like ethics without believing Stoic theology. Obviously you can. People do it all the time. The question is whether that practice is _Stoicism_ or something else using Stoic vocabulary. I think the answer is obvious.
+The question isn't whether you can practice Stoic-like ethics without believing Stoic theology. Obviously you can. People do it all the time. The question is whether that practice is _Stoicism_ or something else using Stoic vocabulary. I think the answer is clear.
 
 ---
 
 _This is one perspective in an ongoing conversation within the Stoic community about the relationship between physics, logic, and ethics. It's a response to [Robertson's article][robertson], not a personal attack — it's a defense of traditional Stoicism's integrated system against attempts to break it apart._
 
-[^1]: See _Inner Citadel p.147_
+[^1]: See _The Inner Citadel_, p. 147.
 
 [robertson]: https://donaldrobertson.substack.com/p/stoic-ethics-does-not-depend-upon
