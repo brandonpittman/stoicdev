@@ -12,6 +12,14 @@
 
 <div>
 	<h1>{note.meta.title}</h1>
+
+	{#if note.meta.ai === 'compiled'}
+		<small
+			>This note was compiled by AI after a back and forth discussion about the thoughts described
+			in the note below.</small
+		>
+	{/if}
+
 	<ul class="tags">
 		{#each note.meta.tags as tag}
 			<li class="tag">{tag}</li>

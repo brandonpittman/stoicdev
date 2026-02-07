@@ -1,6 +1,7 @@
 ---
 title: Distributed Virtue
 date: 2026-01-19
+ai: compiled
 ---
 
 Centralized power has momentum. Once established, it self-perpetuates: bureaucracies expand, executives accumulate authority, dependency relationships form. It requires only a few people to maintain control and many people to accept it. The coordination costs are minimal—one person making decisions is logistically simple.
