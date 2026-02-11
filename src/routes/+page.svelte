@@ -12,7 +12,8 @@
 	<p>
 		This site is a repository of living documents about developing software with a traditional Stoic
 		mindset. The notes contained are partly generated using AI after lengthy voice conversations
-		with AI models. The thoughts are my own but often organized by AI.
+		with AI models. The thoughts are my own but often organized by AI. If any part of the note was
+		compiled by AI there will be a disclaimer at the top of the note.
 	</p>
 </section>
 

@@ -10,7 +10,7 @@ I think this position is wrong, and the error is fundamental.
 
 ## Logic doesn’t generate content
 
-This view conflates the *structure* of Stoic philosophy with how its conclusions are actually *derived*. Logic in Stoicism is the method of reasoning, not the source of what you’re reasoning about. It connects premises to conclusions. It doesn’t create premises out of nothing.
+This view conflates the _structure_ of Stoic philosophy with how its conclusions are actually _derived_. Logic in Stoicism is the method of reasoning, not the source of what you’re reasoning about. It connects premises to conclusions. It doesn’t create premises out of nothing.
 
 The traditional derivation works like this:
 
@@ -18,29 +18,29 @@ The traditional derivation works like this:
 **THEN** via logical reasoning,  
 virtue is the sole good and we should live for the benefit of the whole (Stoic ethics).
 
-The modern move is to remove the IF clause and keep the THEN clause. But *therefore what?* You can’t derive conclusions from a method of reasoning any more than you can use mathematics to generate numbers from nothing. You need something to operate on.
+The modern move is to remove the IF clause and keep the THEN clause. But _therefore what?_ You can’t derive conclusions from a method of reasoning any more than you can use mathematics to generate numbers from nothing. You need something to operate on.
 
-The claim is often that “excellence in reasoning is our good” follows from recognizing reason as our essential nature. Fine. But “reason is our nature” doesn’t get you to Stoic virtue ethics. It could just as easily get you to Epicurean ethics, utilitarian calculation, or Aristotle’s mean. Nothing about recognizing reason as essential tells you that virtue is the *sole* good rather than one good among many, or that living according to reason means living for the benefit of the whole, or that wisdom, justice, courage, and temperance are the cardinal virtues rather than some other set.
+The claim is often that “excellence in reasoning is our good” follows from recognizing reason as our essential nature. Fine. But “reason is our nature” doesn’t get you to Stoic virtue ethics. It could just as easily get you to Epicurean ethics, utilitarian calculation, or Aristotle’s mean. Nothing about recognizing reason as essential tells you that virtue is the _sole_ good rather than one good among many, or that living according to reason means living for the benefit of the whole, or that wisdom, justice, courage, and temperance are the cardinal virtues rather than some other set.
 
-These are specific Stoic conclusions. They require specific premises. In traditional Stoicism, those premises come from physics — understanding ourselves as parts of a rational, interconnected, providentially ordered cosmos. We should act for the benefit of the whole *because we are parts of that whole*, and the whole is rationally ordered. Take away the physics and you lose the derivation entirely. You’re left with duties floating in a metaphysical vacuum.
+These are specific Stoic conclusions. They require specific premises. In traditional Stoicism, those premises come from physics — understanding ourselves as parts of a rational, interconnected, providentially ordered cosmos. We should act for the benefit of the whole _because we are parts of that whole_, and the whole is rationally ordered. Take away the physics and you lose the derivation entirely. You’re left with duties floating in a metaphysical vacuum.
 
 ## Aristo doesn’t help
 
-Aristo of Chios gets cited as evidence that Stoic ethics can function without physics. This is misleading. Aristo was explicitly criticized *by other Stoics* for neglecting physics and logic. He was heterodox — an outlier who departed from what the school actually taught. Diogenes Laertius records that Aristo “did away with logic and physics” and that other Stoics regarded this as a fundamental error.
+Aristo of Chios gets cited as evidence that Stoic ethics can function without physics. This is misleading. Aristo was explicitly criticized _by other Stoics_ for neglecting physics and logic. He was heterodox — an outlier who departed from what the school actually taught. Diogenes Laertius records that Aristo “did away with logic and physics” and that other Stoics regarded this as a fundamental error.
 
 Modern Stoics love pointing to Aristo as proof that not everyone in the tradition agreed on this. Sure. But disagreeing with the majority still makes you the minority. One dissenter doesn’t overturn two millennia of mainstream teaching.
 
 ## The Marcus Aurelius misread
 
-This one comes up constantly. The “providence or atoms” passages in the *Meditations* get cited as evidence that Marcus was agnostic about Stoic physics and practiced ethics independently of them.
+This one comes up constantly. The “providence or atoms” passages in the _Meditations_ get cited as evidence that Marcus was agnostic about Stoic physics and practiced ethics independently of them.
 
 That’s not what Marcus is doing.
 
-When he writes things like “if all is God, then all is well; but if ruled by chance, don’t you too be ruled by chance” (9.28), he’s employing a common philosophical technique — arguing from the weakest position to show his conclusions hold up even under the most skeptical assumptions. The Epicurean model (atoms, chance, indifferent gods) was the main competitor. By saying “even *if* the Epicurean view were correct, virtue would still matter,” Marcus is stress-testing his beliefs, not expressing doubt about them.
+When he writes things like “if all is God, then all is well; but if ruled by chance, don’t you too be ruled by chance” (9.28), he’s employing a common philosophical technique — arguing from the weakest position to show his conclusions hold up even under the most skeptical assumptions. The Epicurean model (atoms, chance, indifferent gods) was the main competitor. By saying “even _if_ the Epicurean view were correct, virtue would still matter,” Marcus is stress-testing his beliefs, not expressing doubt about them.
 
-We know this because the rest of the *Meditations* is saturated with references to Zeus, the logos, universal nature, and rational cosmic order. Pierre Hadot makes this point in *The Inner Citadel* — Marcus consistently returns to the Stoic framework after these rhetorical explorations.[^1]
+We know this because the rest of the _Meditations_ is saturated with references to Zeus, the logos, universal nature, and rational cosmic order. Pierre Hadot makes this point in _The Inner Citadel_ — Marcus consistently returns to the Stoic framework after these rhetorical explorations.[^1]
 
-Here’s the irony: this actually *supports* the traditional position. Marcus felt compelled to address the Epicurean physical model precisely because he understood that different metaphysics generate different ethical frameworks. He wasn’t saying physics doesn’t matter. He was showing that even with the *wrong* physics, virtue remains a rational choice. But he clearly believed the Stoic physics were correct.
+Here’s the irony: this actually _supports_ the traditional position. Marcus felt compelled to address the Epicurean physical model precisely because he understood that different metaphysics generate different ethical frameworks. He wasn’t saying physics doesn’t matter. He was showing that even with the _wrong_ physics, virtue remains a rational choice. But he clearly believed the Stoic physics were correct.
 
 ## The evidence is thin
 
@@ -82,6 +82,10 @@ The deeper irony is that if Stoic ethics are really just common-sense virtue eth
 
 The gradual abandonment of Stoic metaphysics while preserving Stoic-flavored ethics rests on a logical error: mistaking the structure of philosophy for the derivation of conclusions.
 
-The question isn’t whether you can practice Stoic-like ethics without believing Stoic theology. Obviously you can. People do it all the time. The question is whether that practice is *Stoicism* or something else using Stoic vocabulary. I think the answer is clear.
+The question isn’t whether you can practice Stoic-like ethics without believing Stoic theology. Obviously you can. People do it all the time. The question is whether that practice is _Stoicism_ or something else using Stoic vocabulary. I think the answer is clear.
 
-[^1]: See *The Inner Citadel*, p. 147.
+[^1]: See _The Inner Citadel_, p. 147.
+
+---
+
+This is my original note whch I used AI to compile a back and forth conversation into text. There's also a [ grumpier version ](./stoic-physics-remix).
