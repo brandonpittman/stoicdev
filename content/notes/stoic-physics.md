@@ -4,6 +4,9 @@ date: 2026-02-05
 ai: compiled
 ---
 
+This is my original note which I used AI to compile a back and forth conversation into text. There's also a [grumpier version](./stoic-physics-remix).
+---
+
 There’s a persistent argument in modern Stoicism that ethics can stand on their own without Stoic physics. Ethics follow from logic, the argument goes, not from cosmology or theology. This makes Stoicism more accessible to contemporary audiences who find theological frameworks uncomfortable or unnecessary.
 
 I think this position is wrong, and the error is fundamental.
@@ -85,7 +88,3 @@ The gradual abandonment of Stoic metaphysics while preserving Stoic-flavored eth
 The question isn’t whether you can practice Stoic-like ethics without believing Stoic theology. Obviously you can. People do it all the time. The question is whether that practice is _Stoicism_ or something else using Stoic vocabulary. I think the answer is clear.
 
 [^1]: See _The Inner Citadel_, p. 147.
-
----
-
-This is my original note whch I used AI to compile a back and forth conversation into text. There's also a [ grumpier version ](./stoic-physics-remix).
