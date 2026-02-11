@@ -4,7 +4,10 @@ date: 2026-02-05
 ai: compiled
 ---
 
+---
+
 This is my original note which I used AI to compile a back and forth conversation into text. There's also a [grumpier version](./stoic-physics-remix).
+
 ---
 
 There’s a persistent argument in modern Stoicism that ethics can stand on their own without Stoic physics. Ethics follow from logic, the argument goes, not from cosmology or theology. This makes Stoicism more accessible to contemporary audiences who find theological frameworks uncomfortable or unnecessary.
