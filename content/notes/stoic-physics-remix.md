@@ -66,8 +66,8 @@ Until they want to.
 A lot of the now-Traditional Stoics I've met were Modern Stoics first and saw through the business of Modern Stoicism.
 The Modern Stoics want to use the name but not the foundation.
 And they want to tell you that it's because Aristo also didn't care for physics and that Marcus was unsure if the god existed.
-They're disingenuous merchants and I've had my fill of them.
+I've had my fill of them.
 
 ---
 
-This is a grumpier version of a [ note I compiled with AI](./stoic-physics) after a lengthy back and forth conversation.
+This is a grumpier version of a [note I compiled with AI](./stoic-physics) after a lengthy back and forth conversation.
