@@ -22,9 +22,9 @@ B: "But why is it the right thing to do?"
 
 **A** is the Modern Stoic.
 **B** is me trying to figure out where the fuck they're getting their ethics.
-They've never got an answer for me.
+They've never given an answer.
 
-If, however, the Cosmos is a complete whole and we are just one of it's countless consituent parts, then it makes sense that we'd want the Whole to succeed, the same way the hand or foot wants the human body as a whole to succeed. But this would mean that they'd have to say that there's more to life than mere chance, and that something can only be made by something else. It hurts their brains because they've been railing against Christianity for the better part of their lives and they don't want to admit that there's a purpose to existence beyond what we assign it.
+If, however, the Cosmos is a complete whole and we are just one of its countless constituent parts, then it makes sense that we'd want the Whole to succeed, the same way the hand or foot wants the human body as a whole to succeed. But this would mean that they'd have to say there's more to life than mere chance, and that something can only be made by something else. It hurts their brains because they've been railing against Christianity for the better part of their lives, and they don't want to admit that there's a purpose to existence beyond what we assign it.
 
 ## Disingenuity
 
@@ -51,7 +51,7 @@ And if not ruled by chance, then his ethics were guided by the same providence a
 I jumped ship from the Ryan Holidays of the world after one too many ads for book clubs and challenge coins.
 Modern Stoicism is a business.
 They write books, they make merch, and they want your likes.
-It is not a good business decison to peddle their wares to a population that's already got a religion or has rejected the concept of god entirely.
+It is not a good business decision to peddle their wares to a population that's already got a religion or has rejected the concept of god entirely.
 Traditional Stoics occupy a narrow space where we're open to the idea of god and haven't already picked one.
 There's no money in Traditional Stoicism.
 It's in Modern Stoicism's financial interest to appeal to their modern audience.
@@ -70,4 +70,4 @@ I've had my fill of them.
 
 ---
 
-This is a grumpier version of a [note I compiled with AI](./stoic-physics) after a lengthy back and forth conversation.
+This is a grumpier version of a [note I compiled with AI](./stoic-physics) after a lengthy back-and-forth conversation.
