@@ -28,5 +28,3 @@ At the close of Lecture 10, Musonius says:
 > A philosopher is, after all, inconsistent if he says that a good man could never be wronged by a bad man, but then while claiming to be a good man, charges that he is wronged by a bad man.
 
 I'll modify his argument slightly. A philosopher is, unjust if he says that he doesn't need to answer injustice to himself, but then while claiming to be a just man, ignores injustice done to others.
-
-_Brandon Pittman · November 27, 2022_
