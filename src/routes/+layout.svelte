@@ -53,4 +53,12 @@
 	footer {
 		text-align: center;
 	}
+
+	:global(blockquote) {
+		font-style: italic;
+		padding-inline-start: 1.5em;
+		border-left: 3px solid lightgray;
+		margin-block: 3em;
+		margin-inline: 0;
+	}
 </style>
