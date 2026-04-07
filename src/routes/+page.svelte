@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { hrefs } from '$lib/hrefs';
 	import NotesSearch from '$lib/components/NotesSearch.svelte';
+	import MessageMe from '$lib/components/MessageMe.svelte';
 </script>
 
 <svelte:head>
@@ -43,3 +44,5 @@
 		</li>
 	</ul>
 </section>
+
+<MessageMe title="home page" />
