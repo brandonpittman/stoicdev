@@ -1,5 +1,8 @@
 <script lang="ts">
+	import { page } from '$app/state';
 	import { sendMessage } from '../../routes/contact.remote';
+
+	let { title = page.url.pathname }: { title?: string } = $props();
 </script>
 
 <section>
@@ -15,6 +18,7 @@
 				aria-hidden="true"
 				class="honeypot"
 			/>
+			<input {...sendMessage.fields.from_page} type="hidden" value={title} />
 			<textarea {...sendMessage.fields.message.as('text')} rows="5"></textarea>
 			<button>Send</button>
 		</form>

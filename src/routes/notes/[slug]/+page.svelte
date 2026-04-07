@@ -31,7 +31,7 @@
 	{@html note.content}
 </section>
 
-<MessageMe />
+<MessageMe title={note.meta.title} />
 
 <style>
 	.tags {
