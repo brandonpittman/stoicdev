@@ -1,4 +1,5 @@
 ---
+location: Japan
 title: Virtue Is Its Own Reward
 date: 2026-01-18
 ---

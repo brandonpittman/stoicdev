@@ -1,4 +1,5 @@
 ---
+location: Japan
 title: Distributed Virtue
 date: 2026-01-19
 ai: compiled

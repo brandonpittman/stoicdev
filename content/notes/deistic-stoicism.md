@@ -1,4 +1,5 @@
 ---
+location: Japan
 title: 'Deistic Stoicism'
 date: 2025-12-22
 ---

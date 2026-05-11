@@ -1,4 +1,5 @@
 ---
+location: Japan
 title: Making Do
 date: 2025-11-21
 ---

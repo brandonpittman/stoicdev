@@ -1,4 +1,5 @@
 ---
+location: Japan
 title: Low Ceremony
 date: 2025-11-22
 ---

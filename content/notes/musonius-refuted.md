@@ -1,4 +1,5 @@
 ---
+location: Japan
 title: Musonius Refuted
 date: 2022-11-27
 ---
