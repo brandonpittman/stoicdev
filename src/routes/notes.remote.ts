@@ -13,6 +13,7 @@ export type Note = {
 	description: string;
 	date: string;
 	draft?: boolean;
+	location?: string;
 	content: string;
 };
 

@@ -1,5 +1,6 @@
 <script lang="ts">
 	import MessageMe from '$lib/components/MessageMe.svelte';
+	import NoteSignature from '$lib/components/NoteSignature.svelte';
 	import { getNote } from '../../notes.remote';
 
 	const { params } = $props();
@@ -30,6 +31,8 @@
 <section class="note-content">
 	{@html note.content}
 </section>
+
+<NoteSignature date={new Date(note.meta.date)} location={note.meta.location} />
 
 <MessageMe title={note.meta.title} />
 

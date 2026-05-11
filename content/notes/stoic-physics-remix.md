@@ -1,4 +1,5 @@
 ---
+location: Japan
 title: Stoic Physics (Remix)
 date: 2026-02-11
 ---

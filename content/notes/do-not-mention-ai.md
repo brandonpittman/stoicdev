@@ -1,4 +1,5 @@
 ---
+location: Japan
 date: 2026-02-11
 title: Do Not Mention AI
 ---

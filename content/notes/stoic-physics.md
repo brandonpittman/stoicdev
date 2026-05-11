@@ -1,4 +1,5 @@
 ---
+location: Japan
 title: Stoic Physics
 date: 2026-02-05
 ai: compiled
