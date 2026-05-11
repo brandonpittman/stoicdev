@@ -34,6 +34,8 @@
 
 <NoteSignature date={new Date(note.meta.date)} location={note.meta.location} />
 
+<hr />
+
 <MessageMe title={note.meta.title} />
 
 <style>
@@ -51,7 +53,7 @@
 		border-radius: 4px;
 	}
 
-	.note-content {
-		padding-block: 2rem;
+	hr {
+		margin-block: 2rem;
 	}
 </style>
