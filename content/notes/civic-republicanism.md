@@ -2,8 +2,9 @@
 location: Japan
 date: 2026-01-13
 title: Civic Republicanism
-ai: true
 ---
+
+_This note was compiled by AI after a back and forth discussion about the thoughts described in the note below._
 
 Classical liberalism gets a lot of talk but I think the more Stoic-aligned political philosophy is [civic republicanism][cr].
 Civic republicanism has a large emphasis on civic duty.

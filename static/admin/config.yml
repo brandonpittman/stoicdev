@@ -36,7 +36,6 @@ collections:
           time_format: false
         }
       - { name: location, label: Location, widget: string, required: false }
-      - { name: ai, label: Compiled by AI, widget: boolean, default: false, required: false }
       - { name: description, label: Description, widget: text, required: false }
       - { name: draft, label: Draft, widget: boolean, default: true, required: false }
       - { name: body, label: Body, widget: markdown }
