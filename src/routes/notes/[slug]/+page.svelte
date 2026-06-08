@@ -14,7 +14,7 @@
 <div>
 	<h1>{note.meta.title}</h1>
 
-	{#if note.meta.ai === 'compiled'}
+	{#if note.meta.ai}
 		<small
 			>This note was compiled by AI after a back and forth discussion about the thoughts described
 			in the note below.</small
