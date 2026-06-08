@@ -1,0 +1,42 @@
+# Sveltia CMS config. Local editing: open /admin/, "Work with Local Repository",
+# pick the repo root (Chromium only). For remote editing, deploy the OAuth worker
+# (workers/sveltia-cms-auth) and set base_url below.
+backend:
+  name: github
+  repo: brandonpittman/stoicdev # owner/repo
+  branch: main # overwritten per-deployment by scripts/set-cms-config.js
+  # OAuth relay worker origin (Sveltia appends /auth and /callback).
+  base_url: https://stoicdev-cms-auth.brandonpittman.workers.dev
+
+site_url: https://stoicdev.org
+display_url: https://stoicdev.org
+
+# Required for the image widget even if unused by text-only notes.
+media_folder: static/images/cms
+public_folder: /images/cms
+
+collections:
+  - name: notes
+    label: Notes
+    label_singular: Note
+    folder: content/notes
+    create: true
+    slug: '{{slug}}'
+    extension: md
+    format: yaml-frontmatter
+    sortable_fields: [date, title]
+    fields:
+      - { name: title, label: Title, widget: string }
+      - {
+          name: date,
+          label: Date,
+          widget: datetime,
+          format: 'YYYY-MM-DD',
+          date_format: 'YYYY-MM-DD',
+          time_format: false
+        }
+      - { name: location, label: Location, widget: string, required: false }
+      - { name: ai, label: AI, widget: string, required: false }
+      - { name: description, label: Description, widget: text, required: false }
+      - { name: draft, label: Draft, widget: boolean, default: true, required: false }
+      - { name: body, label: Body, widget: markdown }
