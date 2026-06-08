@@ -1,0 +1,14 @@
+# Rename per project to avoid collisions across Cloudflare accounts.
+name = "stoicdev-cms-auth"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+
+# Hostnames allowed to use this authenticator (wildcards ok). One worker serves
+# every deployment: production custom domain + the Pages preview wildcard (branch
+# aliases + per-commit preview deploys).
+[vars]
+ALLOWED_DOMAINS = "stoicdev.org,*.stoicdev.org,stoicdev.pages.dev,*.stoicdev.pages.dev"
+
+# Secrets are NOT stored here. Set them after the first deploy (from repo root):
+#   npx wrangler secret put GITHUB_CLIENT_ID --config workers/sveltia-cms-auth/wrangler.toml
+#   npx wrangler secret put GITHUB_CLIENT_SECRET --config workers/sveltia-cms-auth/wrangler.toml

@@ -7,3 +7,6 @@ bun.lockb
 
 # Miscellaneous
 /static/
+
+# CMS-edited content (don't reformat)
+content/**/*.md

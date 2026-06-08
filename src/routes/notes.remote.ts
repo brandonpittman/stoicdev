@@ -1,4 +1,5 @@
 import { query } from '$app/server';
+import { dev } from '$app/environment';
 import { error } from '@sveltejs/kit';
 import matter, { type Input } from 'gray-matter';
 import { Marked } from 'marked';
@@ -45,17 +46,27 @@ const allNotes = Object.entries(noteModules).map(([path, content]) => {
 
 // Get all posts
 export const getNotes = query(z.optional(z.string()), async (searchQuery) => {
-	let sorted = allNotes
-		.filter((note) => !note.draft)
-		.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+	let notes = allNotes;
 
-	if (!searchQuery) return sorted;
+	// Production hides drafts + future-dated notes (visible in dev for preview)
+	if (!dev) {
+		const now = new Date();
+		notes = notes.filter((note) => {
+			if (note.draft === true) return false;
+			if (new Date(note.date) > now) return false;
+			return true;
+		});
+	}
 
-	const q = searchQuery.toLowerCase();
-	return sorted.filter(
-		(note) =>
-			note.title.toLowerCase().includes(q) || note.content.toLowerCase().includes(q)
-	);
+	if (searchQuery) {
+		const q = searchQuery.toLowerCase();
+		notes = notes.filter(
+			(note) =>
+				note.title.toLowerCase().includes(q) || note.content.toLowerCase().includes(q)
+		);
+	}
+
+	return notes.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 });
 
 // Get single post by slug
@@ -66,6 +77,9 @@ export const getNote = query(z.string(), async (slug) => {
 	if (!content) error(404, 'Post not found');
 
 	const { data, content: markdown } = matter(content as Input);
+
+	// Drafts are not reachable in production, even by direct URL (visible in dev).
+	if (!dev && data.draft === true) error(404, 'Post not found');
 
 	return {
 		slug,
