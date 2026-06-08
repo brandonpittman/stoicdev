@@ -2,8 +2,9 @@
 location: Japan
 title: Distributed Virtue
 date: 2026-01-19
-ai: true
 ---
+
+_This note was compiled by AI after a back and forth discussion about the thoughts described in the note below._
 
 Centralized power has momentum. Once established, it self-perpetuates: bureaucracies expand, executives accumulate authority, dependency relationships form. It requires only a few people to maintain control and many people to accept it. The coordination costs are minimal—one person making decisions is logistically simple.
 

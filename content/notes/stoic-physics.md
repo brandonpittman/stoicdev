@@ -2,8 +2,9 @@
 location: Japan
 title: Stoic Physics
 date: 2026-02-05
-ai: true
 ---
+
+_This note was compiled by AI after a back and forth discussion about the thoughts described in the note below._
 
 ---
 
