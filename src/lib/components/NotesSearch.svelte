@@ -13,13 +13,11 @@
 	const searchQuery = $derived(page.url.searchParams.get('q') ?? '');
 	const notes = $derived(await getNotes(searchQuery || undefined));
 	const displayNotes = $derived(limit ? notes.slice(0, limit) : notes);
-
-	let inputValue = $state(searchQuery);
 </script>
 
 {#if showForm}
 	<form>
-		<input id="search" type="search" name="q" placeholder="Search..." bind:value={inputValue} />
+		<input id="search" type="search" name="q" placeholder="Search..." value={searchQuery} />
 		<button type="submit">Search</button>
 	</form>
 {/if}
