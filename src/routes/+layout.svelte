@@ -1,5 +1,6 @@
 <script lang="ts">
-	import favicon from '$lib/assets/favicon.svg';
+	import { resolve } from '$app/paths';
+	import favicon from '#lib/assets/favicon.svg';
 
 	let { children } = $props();
 </script>
@@ -8,7 +9,7 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
-<header><a href="/">Stoic Dev</a></header>
+<header><a href={resolve('/')}>Stoic Dev</a></header>
 
 <main>
 	{@render children()}

@@ -1,5 +1,5 @@
 import { query } from '$app/server';
-import { dev } from '$app/environment';
+import { dev } from '$app/env';
 import { error } from '@sveltejs/kit';
 import matter, { type Input } from 'gray-matter';
 import { Marked } from 'marked';
@@ -61,8 +61,7 @@ export const getNotes = query(z.optional(z.string()), async (searchQuery) => {
 	if (searchQuery) {
 		const q = searchQuery.toLowerCase();
 		notes = notes.filter(
-			(note) =>
-				note.title.toLowerCase().includes(q) || note.content.toLowerCase().includes(q)
+			(note) => note.title.toLowerCase().includes(q) || note.content.toLowerCase().includes(q)
 		);
 	}
 

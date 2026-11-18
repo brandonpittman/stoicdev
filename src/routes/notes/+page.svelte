@@ -1,5 +1,5 @@
 <script lang="ts">
-	import NotesSearch from '$lib/components/NotesSearch.svelte';
+	import NotesSearch from '#lib/components/NotesSearch.svelte';
 </script>
 
 <svelte:head>

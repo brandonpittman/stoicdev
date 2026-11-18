@@ -1,3 +1,6 @@
+import { mdsvex } from 'mdsvex';
+import adapter from '@sveltejs/adapter-cloudflare';
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import devtoolsJson from 'vite-plugin-devtools-json';
 import { defineConfig } from 'vitest/config';
 import { playwright } from '@vitest/browser-playwright';
@@ -25,7 +28,17 @@ const adminIndexFallback: Plugin = {
 };
 
 export default defineConfig({
-	plugins: [adminIndexFallback, sveltekit(), devtoolsJson()],
+	plugins: [
+		adminIndexFallback,
+		sveltekit({
+			preprocess: [vitePreprocess(), mdsvex()],
+			compilerOptions: { experimental: { async: true } },
+			extensions: ['.svelte', '.svx'],
+			adapter: adapter(),
+			experimental: { remoteFunctions: true }
+		}),
+		devtoolsJson()
+	],
 	test: {
 		expect: { requireAssertions: true },
 		projects: [

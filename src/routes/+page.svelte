@@ -1,7 +1,7 @@
 <script lang="ts">
-	import { hrefs } from '$lib/hrefs';
-	import NotesSearch from '$lib/components/NotesSearch.svelte';
-	import MessageMe from '$lib/components/MessageMe.svelte';
+	import { resolve } from '$app/paths';
+	import NotesSearch from '#lib/components/NotesSearch.svelte';
+	import MessageMe from '#lib/components/MessageMe.svelte';
 </script>
 
 <svelte:head>
@@ -30,17 +30,17 @@
 <section>
 	<h2>Notes</h2>
 	<NotesSearch limit={5} showForm={false} />
-	<a href="/notes">View all notes</a>
+	<a href={resolve('/notes')}>View all notes</a>
 </section>
 
 <section>
 	<h2>Interesting Links</h2>
 	<ul>
 		<li>
-			<a href={hrefs.traditional_stoicism}>Traditional Stoicism</a>
+			<a href="https://traditionalstoicism.com/">Traditional Stoicism</a>
 		</li>
 		<li>
-			<a href={hrefs.cosp}>College of Stoic Philosophers</a>
+			<a href="https://collegeofstoicphilosophers.org/">College of Stoic Philosophers</a>
 		</li>
 	</ul>
 </section>

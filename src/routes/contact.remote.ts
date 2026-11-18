@@ -1,6 +1,6 @@
 import { form } from '$app/server';
 import { Resend } from 'resend';
-import { RESEND_API_KEY } from '$env/static/private';
+import { RESEND_API_KEY } from '$app/env/private';
 import * as z from 'zod/mini';
 
 const resend = new Resend(RESEND_API_KEY);

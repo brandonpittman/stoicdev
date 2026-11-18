@@ -12,7 +12,7 @@
 	{:else}
 		<form {...sendMessage}>
 			<input
-				{...sendMessage.fields.website}
+				{...sendMessage.fields.website.as('text')}
 				autocomplete="off"
 				tabindex="-1"
 				aria-hidden="true"

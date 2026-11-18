@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { getNotes } from '../../routes/notes.remote';
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
+	import { resolve } from '$app/paths';
 
 	type Props = {
 		limit?: number;
@@ -9,7 +10,7 @@
 
 	let { limit, showForm = true }: Props = $props();
 
-	const searchQuery = $derived($page.url.searchParams.get('q') ?? '');
+	const searchQuery = $derived(page.url.searchParams.get('q') ?? '');
 	const notes = $derived(await getNotes(searchQuery || undefined));
 	const displayNotes = $derived(limit ? notes.slice(0, limit) : notes);
 
@@ -29,7 +30,7 @@
 	<ul>
 		{#each displayNotes as note (note.slug)}
 			<li>
-				<a href={`/notes/${note.slug}`}>{note.title}</a>
+				<a href={resolve('/notes/[slug]', { slug: note.slug })}>{note.title}</a>
 			</li>
 		{/each}
 	</ul>

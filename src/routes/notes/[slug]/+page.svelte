@@ -1,6 +1,6 @@
 <script lang="ts">
-	import MessageMe from '$lib/components/MessageMe.svelte';
-	import NoteSignature from '$lib/components/NoteSignature.svelte';
+	import MessageMe from '#lib/components/MessageMe.svelte';
+	import NoteSignature from '#lib/components/NoteSignature.svelte';
 	import { getNote } from '../../notes.remote';
 
 	const { params } = $props();
@@ -15,13 +15,14 @@
 	<h1>{note.meta.title}</h1>
 
 	<ul class="tags">
-		{#each note.meta.tags as tag}
+		{#each note.meta.tags as tag (tag)}
 			<li class="tag">{tag}</li>
 		{/each}
 	</ul>
 </div>
 
 <section class="note-content">
+	<!-- eslint-disable-next-line svelte/no-at-html-tags -->
 	{@html note.content}
 </section>
 
