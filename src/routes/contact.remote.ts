@@ -3,8 +3,6 @@ import { Resend } from 'resend';
 import { RESEND_API_KEY } from '$app/env/private';
 import * as z from 'zod/mini';
 
-const resend = new Resend(RESEND_API_KEY);
-
 export const sendMessage = form(
 	z.object({
 		message: z.string().check(z.minLength(1, 'Message required')),
@@ -17,7 +15,7 @@ export const sendMessage = form(
 			return { success: true };
 		}
 
-		await resend.emails.send({
+		await new Resend(RESEND_API_KEY).emails.send({
 			from: 'contact@stoicdev.org',
 			to: 'stoicdev@brandonpittman.com',
 			subject: `Message from ${from_page ?? ''} on stoicdev.org`,
